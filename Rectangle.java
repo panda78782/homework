@@ -15,7 +15,7 @@ class Rectangle {
 	void setSize(int w, int h) {
 		width = w;
 		height = h;
-		System.err.println("スーパークラスのsetSize");
+		//System.err.println("スーパークラスのsetSize");
 	}
 	
 	int getArea() {
